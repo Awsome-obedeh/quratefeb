@@ -13,6 +13,9 @@ steps to create instance
 - sercah for Ec2
 - launch instance with AMI, key pair
 
+2. connected to instace and convert instance to web server
+![1](images/img2.png)
+
 
 <!-- 
 | What | Markdown |
